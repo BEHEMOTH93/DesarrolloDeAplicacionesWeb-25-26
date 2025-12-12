@@ -4,7 +4,6 @@ body {
     background: #f3f3f3;
 }
 
-/* ENCABEZADO */
 header {
     background: #004d99;
     color: white;
@@ -26,7 +25,6 @@ nav a {
     text-decoration: none;
 }
 
-/* CONTENIDO */
 main {
     padding: 20px;
 }
@@ -38,13 +36,11 @@ section {
     border-radius: 8px;
 }
 
-/* MULTIMEDIA */
 img, video {
     border-radius: 8px;
     margin-top: 10px;
 }
 
-/* TABLA */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -64,7 +60,6 @@ td {
     padding: 8px;
 }
 
-/* FORMULARIO */
 form {
     display: flex;
     flex-direction: column;
